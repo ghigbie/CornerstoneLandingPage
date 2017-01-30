@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style>
+			.banner{
+				width: 100%;
+				margin-bottom: 0.15%;
+			}
+			.hero{
+			}
+			.row1{
+				margin-right: 50px;
+				display: inline-block;
+			}
+			
+			
+		</style>
+	</head>
+	
+	<body>	
+		<div style="position: relative">
+		<img class="banner" style="width: 100%; margin-bottom: 0.15%" src="/clientimg/asb/welcome/Header_strip.png">
+		<img class="hero" style="width: 100%;" src="/clientimg/asb/welcome/151105-Heloc1-1st.jpg">
+<table style="position: absolute; right 0px; top: 10px;">
+<tbody><tr><td style="text-align: left; color: rgb(164, 207, 95); padding-top: 60px; padding-right: 80px; padding-left: 20px; font-family: arial; vertical-align: bottom;"><p><span style="color: rgb(54, 96, 146);"><font size="7">Welcome {FIRSTNAME}</font></span><span style="font-size: 30px; color: rgb(54, 96, 146);"></span></p><p><span style="font-size: 30px; color: rgb(54, 96, 146);"></span><span style="color: rgb(54, 96, 146);"><strong style=""><font size="5">to ASB’s Learning &amp; Development Hub!</font></strong></span></p></td>
+</tr>
+<tr><td style="height: 210px; text-align: left; color: rgb(164, 207, 95); line-height: 18px; padding-right: 50px; padding-left: 20px; font-family: arial; vertical-align: top;">
+                        <p style=""><font size="5"><span style="color: rgb(0, 204, 102);"> </span></font></p><p style=""><font size="5"><span style="color: rgb(0, 204, 102);"></span></font></p>
+                        </td></tr></tbody></table>
+</div>
+
+<!--Second and Third Rows of Buttons-->
+
+	<h1 style="text-align: center; margin-right: 20px;"><font size="7"><strong>Learning &amp; Development</strong></font></h1>
+	<br>
+	<br>
+	<div align="center" style="width: 100%; display: inline-block;">
+
+<div style="margin-right: 50px; display: inline-block;">
+<img style="width: 200px; height: 200px;" src="/clientimg/asb/welcome/leadership3.png" usemap="#rade_img_map_1454010208573">
+<h2 style="text-align: center; vertical-align: middle;"><font size="5">Leadership</font></h2><p style="text-align: center; vertical-align: middle;"><font size="5">&nbsp;</font></p><font size="5">
+</font>
+</div>
+
+<div style="margin-right: 50px; display: inline-block;">
+<img style="border-color: currentColor; width: 200px; height: 200px; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-top-style: solid; border-bottom-style: solid; border-left-style: solid;" src="/clientimg/asb/welcome/operations3.png" usemap="#rade_img_map_1454010345901" 50px"="" =""""="">
+<h2 style="text-align: center; vertical-align: middle;"><font size="5">Operations</font></h2><p style="text-align: center; vertical-align: middle;"><font size="5">&nbsp;</font></p><font size="5">
+</font>
+</div>
+
+<div style="margin-right: 50px; display: inline-block;">
+<img style="width: 200px; height: 200px;" src="/clientimg/asb/welcome/bizacumen3.png" usemap="#rade_img_map_1454010532758">
+<h2 style="text-align: center; vertical-align: middle;"><font size="5">Business </font></h2><h2 style="text-align: center; vertical-align: middle;"><font size="5">Acumen</font></h2><font size="5">
+</font>
+</div>
+
+<div style="margin-right: 50px; display: inline-block;">
+<img style="width: 200px; height: 200px;" src="/clientimg/asb/welcome/consumer3.png" usemap="#rade_img_map_1454010641046">
+<h2 style="text-align: center; vertical-align: middle;"><font size="5">Consumer </font></h2><h2 style="text-align: center; vertical-align: middle;"><font size="5">Banking</font></h2><font size="5">
+</font>
+</div>
+
+
+<div style="display: inline-block;">
+<img style="width: 200px; height: 200px;" src="/clientimg/asb/welcome/build3.png" usemap="#rade_img_map_1454010834139">
+<h2 style="text-align: center; padding-right: 0px; vertical-align: middle;"><font size="5">Building </font></h2><h2 style="text-align: center; padding-right: 0px; vertical-align: middle;"><font size="5">Relationships</font></h2><font size="5">
+</font>
+</div>
+
+</div><font size="5">
+<br>
+<br>
+<br>
+
+
+<map name="rade_img_map_1454010208573" id="rade_img_map_1454010208573"><area href="/GlobalSearch/search.aspx?s=1&amp;q=leadership" shape="RECT" coords="0,0,1880,2053"></map><map name="rade_img_map_1454010345901" id="rade_img_map_1454010345901"><area href="/GlobalSearch/search.aspx?s=1&amp;q=operations" shape="RECT" coords="0,0,2135,2132"></map><map name="rade_img_map_1454010532758" id="rade_img_map_1454010532758"><area href="/GlobalSearch/search.aspx?s=1&amp;q=business" shape="RECT" coords="0,0,2067,2066"></map><map name="rade_img_map_1454010641046" id="rade_img_map_1454010641046"><area href="/GlobalSearch/search.aspx?s=1&amp;q=consumer" shape="RECT" coords="0,0,2131,2097"></map><map name="rade_img_map_1454010834139" id="rade_img_map_1454010834139"><area href="/GlobalSearch/search.aspx?s=1&amp;q=relationship" shape="RECT" coords="0,0,2262,2258"></map>
+
+</font>
+	</body>
+	
+</html>
